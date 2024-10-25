@@ -16,7 +16,7 @@
     "chart": "^0.1.2",
     "chart.js": "^2.9.3",
     "core-js": "^3.6.4",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "vue-chartjs": "^3.5.0",
     "vue-class-component": "^7.2.3",
     "vue-google-charts": "^0.3.2",
